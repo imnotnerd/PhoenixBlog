@@ -15,12 +15,18 @@ A Survey and Research Directions
 14,¡£ Brokering multi-grid workflows in the P-GRADE portal
 15. Dynamic Multi DAG Scheduling Algorithm for Optical Grid
 Environment 
-16. A comparative study of scheduling algorithms for the
-multiple deadline-constrained workflows in
+16. A comparative study of scheduling algorithms for the multiple deadline-constrained workflows in
 heterogeneous computing systems with time windows
 
 17. Hybrid Scheduling Deadline-Constrained Multi-DAGs Based on Reverse HEFT
 18. Scheduling Multiple DAGs onto Heterogeneous Systems
+19. Schedule Dynamic Multiple Parallel Jobs with Precedence-constrained Tasks on Heterogeneous Distributed Computing Systems
+20. Adaptive workflow scheduling in grid computing based on
+dynamic resource availability
+21. Dynamic Critical-Path Scheduling: An Effective Technique for Allocating Task Graphs to Multiprocessors
+22.A Genetic Algorithm for Multiprocessor Scheduling
+23. Performance-effective and low-complexity task scheduling for heterogeneous computing(c27)
+24. HSIP: A Novel Task Scheduling Algorithm for Heterogeneous Computing
 // 6. On the Use of Cloud Computing for Scientific Workflows
 
 
