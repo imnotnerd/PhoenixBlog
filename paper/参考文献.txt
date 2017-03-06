@@ -1,0 +1,5 @@
+4. Predictive elastic resource scaling for cloud systems  £¨C6£©
+5. Why cloud computing will never be free (C8)3
+6. Improving Utilization of Infrastructure Clouds
+7. ¡°SETI@home: An Experiment in Public-Resource Computing
+// 6. On the Use of Cloud Computing for Scientific Workflows

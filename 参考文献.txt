@@ -1,0 +1,45 @@
+4. Predictive elastic resource scaling for cloud systems  （C6）
+5. Why cloud computing will never be free (C8)3
+6. Improving Utilization of Infrastructure Clouds
+7. “SETI@home: An Experiment in Public-Resource Computing
+8.IC cloud: a design space for compostable cloud computing (c9)
+9. Bi-objective Scheduling Algorithms for Optimizing
+Makespan and Reliability on Heterogeneous Systems
+10. Scientific Workflow:
+A Survey and Research Directions
+11. A Framework for Workflow Management
+Systems Based on Objects, Rules and Roles
+12.Scientific Workflow:
+A Survey and Research Directions
+13. Scientific workflow managementand the Kepler system
+14,。 Brokering multi-grid workflows in the P-GRADE portal
+15. Dynamic Multi DAG Scheduling Algorithm for Optical Grid
+Environment 
+16. A comparative study of scheduling algorithms for the
+multiple deadline-constrained workflows in
+heterogeneous computing systems with time windows
+
+17. Hybrid Scheduling Deadline-Constrained Multi-DAGs Based on Reverse HEFT
+18. Scheduling Multiple DAGs onto Heterogeneous Systems
+// 6. On the Use of Cloud Computing for Scientific Workflows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+看到的一个很好的摘要
+Workflow scheduling in cloud: a survey 的摘要
