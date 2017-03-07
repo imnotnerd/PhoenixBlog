@@ -30,9 +30,13 @@ dynamic resource availability
 
 25. 基于逆向分层的网格工作流调度算法（c35）
 
-26. 
-27. 基于时序一致的工作流费用优化方法
-28. 基于路径平衡的工作流费用优化方法
+26.  基于时序一致的工作流费用优化方法
+27. 基于路径平衡的工作流费用优化方法
+
+28. 多租户应用的性能管理关键问题研究
+29. 多DAG共享资源调度的若干问题研究
+30.  A planner-guided scheduling strategy for multiple workflow applications
+31. Online scheduling of workflow applications in  grid environments. Future Generation Computer Systems
 // 6. On the Use of Cloud Computing for Scientific Workflows
 
 
