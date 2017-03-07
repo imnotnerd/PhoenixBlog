@@ -27,6 +27,12 @@ dynamic resource availability
 22.A Genetic Algorithm for Multiprocessor Scheduling
 23. Performance-effective and low-complexity task scheduling for heterogeneous computing(c27)
 24. HSIP: A Novel Task Scheduling Algorithm for Heterogeneous Computing
+
+25. 基于逆向分层的网格工作流调度算法（c35）
+
+26. 
+27. 基于时序一致的工作流费用优化方法
+28. 基于路径平衡的工作流费用优化方法
 // 6. On the Use of Cloud Computing for Scientific Workflows
 
 
