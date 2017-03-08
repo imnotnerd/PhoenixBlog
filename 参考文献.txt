@@ -35,8 +35,9 @@ dynamic resource availability
 
 28. 多租户应用的性能管理关键问题研究
 29. 多DAG共享资源调度的若干问题研究
-30.  A planner-guided scheduling strategy for multiple workflow applications
-31. Online scheduling of workflow applications in  grid environments. Future Generation Computer Systems
+30. Online scheduling of workflow applications in  grid environments. Future Generation Computer Systems
+31.  A planner-guided scheduling strategy for multiple workflow applications
+
 // 6. On the Use of Cloud Computing for Scientific Workflows
 
 
