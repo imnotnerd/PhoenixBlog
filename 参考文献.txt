@@ -41,7 +41,8 @@ dynamic resource availability
 33. List scheduling algorithmfor heterogeneous systems by an optimistic cost table
 34. Worst-Case fair weighted fair queueing
 35.A meta-algorithm for scheduling multiple DAGs in homogeneous system environments
-36. Fairness resource sharing for dynamic workflow scheduling on heterogeneous systems
+36. Fairness resource sharing for dynamic workflow scheduling on heterogeneous systems
+37. Dynamic critical-path scheduling: An effective technique for allocating task graphs to multiprocessors
 // 6. On the Use of Cloud Computing for Scientific Workflows
 
 
